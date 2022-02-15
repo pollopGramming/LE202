@@ -85,4 +85,20 @@ https://www.sparkfun.com/products/16402
 - joystick
 -  MIDI
 -  audio
+## 6) ชื่อ โมเด็ล 32-bit RISC-V Core MCU Microcontroller RT-Thread 5V 120MHz Demo Board
+### ราคา 
+$11.98
+### ลิงค์ ราคา 
+https://www.ebay.com/itm/203728942515
+### ความเร็ว 
+120MHz
+### หน่วยความจำ ขนาดเท่าไหร่ 
+192KB
+### พอร์ท input/output
+- Onboard 1 TF card socket
+-  1 audio interface
+-  1 RGB light, 1 infrared receiver
+-  3 function buttons
+-  1 reset button
+-  1 USB interface (the software does not currently support)
 
