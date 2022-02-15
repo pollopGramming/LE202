@@ -20,3 +20,13 @@ Supports Li+/Li-Poly Batteries
 7.5mA to 300mA Charge Current
 Single Inductor Multiple Output (SIMO) Buck-Boost Regulator
 3 Outputs from a Single Inductor
+## ชื่อ โมเด็ล MAX32620FTHR
+### ราคา 
+
+### ลิงค์ ราคา
+
+### ความเร็ว 
+96MHz
+### หน่วยความจำ ขนาดเท่าไหร่ 
+256KB
+### พอร์ท input/output 
