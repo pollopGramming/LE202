@@ -1,14 +1,14 @@
-#การสำรวจ บอร์ด ไมโครคอนโทรเลอร์
-##ชื่อ โมเด็ล MAX32620FTHR
-    ### ราคา 
+# การสำรวจ บอร์ด ไมโครคอนโทรเลอร์
+## ชื่อ โมเด็ล MAX32620FTHR
+### ราคา 
 1,116.12
-    ### ลิงค์ ราคา
+### ลิงค์ ราคา
 https://th.rs-online.com/web/p/microcontroller-development-tools/1914225?cm_mmc=TH-PPC-DS3A-_-google-_-3_TH_EN_Raspberry+Pi+%26+Arduino+%26+Development+Tools_Microcontroller+Development+Tools_Phrase-_-Maxim+Integrated+-+1914225+-+MAX32620FTHR%23-_-max32620fthr%23&matchtype=p&kwd-944609237938&gclid=Cj0KCQiAu62QBhC7ARIsALXijXQnAZr3QrASJzuBtJmjljQ6Y4RQ_fV9tQZGfQzwVkO4V0n6yNaOKyQaAi8WEALw_wcB&gclsrc=aw.ds
-    ### ความเร็ว 
+### ความเร็ว 
 96MHz
-    ### หน่วยความจำ ขนาดเท่าไหร่ 
+### หน่วยความจำ ขนาดเท่าไหร่ 
 256KB
-    ### พอร์ท input/output 
+### พอร์ท input/output 
 Full-Speed USB
 SPI, I2C, UART, and 1-Wire
 4-Channel 10-Bit ADC
