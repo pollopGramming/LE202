@@ -1,22 +1,22 @@
 # ex1 การเขียนโปรแกรมเพื่อรันบนไมโครคอนโทรเลอร์
-#include <Arduino.h>
+ #include <Arduino.h>
 
-int cnt = 0;
+ int cnt = 0;
 
-void setup()
-{
+ void setup()
+ {
 	Serial.begin(115200);
-}
+ }
 
-void loop()
-{
-	cnt++;
+ void loop()
+ {
+ 	cnt++;
 	Serial.printf("A:%d\n",cnt);
 	delay(300);
-}
+ }
 # ex2 การเขียนโปรแกรมค้นหาไวไฟ
-#include <Arduino.h>
-#include <ESP8266WiFi.h>
+ #include <Arduino.h>
+ #include <ESP8266WiFi.h>
 
 int cnt = 0;
 
